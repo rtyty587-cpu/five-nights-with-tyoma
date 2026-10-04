@@ -9,13 +9,13 @@
         "name": "FiveNightsWithTyoma-v1.0.apk",
         "platform": "android",
         "size": "73.8",
-        "sha256": "675245340feeea9bec46a202be3c0d7a55b71bd4f30753a860d19c123bfc8793"
+        "sha256": "e7edca9bc81a87e3707a238b30c9f3c29cd2af7a263d5a71d3ddf6447ed04881"
       },
       {
         "name": "FiveNightsWithTyoma-v1.0.exe",
         "platform": "windows",
         "size": "111.7",
-        "sha256": "91ef94f6358cad2931919346be2338e64a6ca10b4a985e7ae47d7d014fbf221a"
+        "sha256": "2109d099ecfa8b331fd9c8f4d759a52a48d93188fcee620ca7166636302bc085"
       }
     ],
     "source": "FiveNightsWithTyoma-source-v1.0.zip"
